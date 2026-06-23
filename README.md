@@ -2,12 +2,14 @@
 
 ## Topics:
 1. LLM basics
-
+- How to use Claude as a data/coding agent
 - How to connect Claude with CBorg
+    - https://api.cborg.lbl.gov/key/manage 
+- Update settings.json
+- Setup Claude Code in VSCode
 - Picking models
 - Cost of models
 - Context (how much info you can send to LLM before it "forgets")
-- How to use claude as a coding agent
 - Bonus: Skills - https://code.claude.com/docs/en/skills 
 
 2. Working With Data
