@@ -1,0 +1,22 @@
+Column_or_Row_Name,Unit,Definition,Data_Type
+Fungi_Species,N/A,fungi species used in fungal mat experiment: MC is Marasmius crinis-equi and GJ is Gymnopus johnstonii,text
+Fungal_Mat_ID,N/A,unique ID for each fungal mat studied in the experiment,text
+Plot,N/A,TRACE experiment plot number,numeric
+Treatment,N/A,experimental treatment: C is control plot and H is warmed plot; N/A = no active warming treatment was working,text
+Season,N/A,time of year when measurements were conducted,text
+Initial_Area,cm2,surface area of fungal mat at the beginning of the experiment,numeric
+Final_Area,cm2,surface area of fungal mat at the end of the experiment,numeric
+Total_Weeks,N/A,elapsed weeks between the initial and final area measurements,numeric
+Raw_Growth,cm2,difference between initial surface area and final surface area of the fungal mat,numeric
+Relative_Growth_Rate_Weekly,N/A,percent growth = Difference / Initial_Area * 100,numeric
+Time_to_Colonization,N/A,weeks it took for the fungal mat to colonize the recently senesced leaf of Swietenia mahogoni. Empty = no leaf colonization occurred.,numeric
+Colonization_Status,N/A,colonization of the recently senesced Swietenia mahogoni leaf. Binary code 0 = not colonized by litter mat-forming fungi; 1 = colonized by fungi,numeric
+Start_Date,YYYY-MM-DD,start date indicating the beginning of the study period,date
+End_Date,YYYY-MM-DD,end date indicating the end of the study period,date
+Depth,cm,depth of the sensor relative to the soil surface,text
+Avg_Temperature,�C,soil temperature averaged for study period,numeric
+Week_Start,YYYY-MM-DD,date identified as the start of the week,date
+Week_End,YYYY-MM-DD,date identified as the end of the week,date
+Number_dry_days_week,N/A,"amount of dry days per week, where rainfall was < 2 mm per day",numeric
+Latitude,decimal degrees,geographic latitude of the experimental site,numeric
+Longitude,decimal degrees,geographic longitude of the experimental site,numeric

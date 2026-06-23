@@ -1,0 +1,7 @@
+﻿file_name,file_description,standard,file_version,data_orientation,notes
+dd.csv,"Data dictionary describing column names, decription, and units for the four data files.",ESS-DIVE CSV v1,1,horizontal,NA
+Fungal_mat_surface_area_growth.csv,Raw data for fungal mat growth and relative growth rates in the TRACE plots.,ESS-DIVE CSV v1,1,horizontal,NA
+Leaf_colonization_time.csv,Colonization status and time to leaf colonization of two fungi species in the TRACE plots.,ESS-DIVE CSV v1,1,horizontal,NA
+Dry_days_leaf_colonization.csv,Number of dry days per week calculated from rainfall at Sabana Field Research Station.,ESS-DIVE CSV v1,1,horizontal,NA
+Soil_temp_leaf_colonization.csv,Average soil temperature from experimental warming plots at TRACE project. Includes one soil depth (0.5 cm).,ESS-DIVE CSV v1,1,horizontal,NA
+Soil_temp_leaf_colonization_v2.csv,Average soil temperature from experimental warming plots at TRACE project. Includes one soil depth (0.5 cm). Adds Latitude and Longitude columns (LBNL site coordinates; same for all plots).,ESS-DIVE CSV v1,2,horizontal,NA
