@@ -19,3 +19,4 @@
 - Validating outputs
 - Using Skill files
 - Saving work with memories and additional skills
+- Bonus: Using git to check in changes
