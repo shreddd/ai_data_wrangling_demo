@@ -1,0 +1,16 @@
+{
+  "theme": "dark-daltonized",
+  "env": {
+    "ANTHROPIC_AUTH_TOKEN": "sk-YOUR_TOKEN_HERE",
+    "ANTHROPIC_BASE_URL": "https://api.cborg.lbl.gov",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "claude-haiku-4-5",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "claude-sonnet-4-6",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "claude-opus-4-6",
+    "ANTHROPIC_MODEL": "claude-sonnet-4-6",
+    "CLAUDE_CODE_SUBAGENT_MODEL": "claude-haiku-4-5",
+    "CLAUDE_CODE_DISABLE_EXPERIMENTAL_BETAS": "1",
+    "CLAUDE_CODE_MAX_OUTPUT_TOKENS": "8192",
+    "DISABLE_NON_ESSENTIAL_MODEL_CALLS": "1",
+    "DISABLE_TELEMETRY": "1"
+  }
+}
