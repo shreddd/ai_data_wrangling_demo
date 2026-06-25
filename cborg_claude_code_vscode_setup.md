@@ -4,10 +4,18 @@ Source: https://cborg.lbl.gov/tools_claudecode/
 
 ## Prerequisites
 
-- A CBorg API key
+- A CBorg API key (see Step 0 below)
 - [Python 3.8 or later](https://www.python.org/downloads/) installed — after installing, confirm it's working by opening a terminal and running `python3 --version` (Mac/Linux) or `python --version` (Windows). You should see a version number printed.
 - [Claude Code CLI](https://claude.ai/code) installed
 - [VSCode](https://code.visualstudio.com/) installed
+
+---
+
+## Step 0. Get Your CBorg API Key
+
+Go to [https://api.cborg.lbl.gov/key/manage](https://api.cborg.lbl.gov/key/manage) and log in with your LBNL credentials.
+
+If you don't have a key yet, click **Generate Key**. Copy the key and save it somewhere safe — you'll need it in the setup steps below. You won't be able to view the full key again after leaving the page.
 
 ---
 
