@@ -5,8 +5,8 @@
 - How to use Claude as a data/coding agent
 - How to connect Claude with CBorg
     - https://api.cborg.lbl.gov/key/manage 
-- Update settings.json
-- Setup Claude Code in VSCode
+- Update Environment
+- [Setup Claude Code in VSCode](cborg_claude_code_vscode_setup.md)
 - Picking models
 - Cost of models
 - Context (how much info you can send to LLM before it "forgets")
@@ -14,8 +14,8 @@
 
 2. Working With Data
 - Downloading and Setting up your data
-- Setting up CLAUDE.md for instructions
-- Guiding claude through data preparation process
+- [Setting up CLAUDE.md for instructions](CLAUDE.md)
+- [Guiding claude through data preparation process](DataWranglingScript.md)
 - Validating outputs
 - Using Skill files
 - Saving work with memories and additional skills
