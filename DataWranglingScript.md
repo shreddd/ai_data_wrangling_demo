@@ -70,5 +70,6 @@ Treatment codes	5	Definition doesn't document the x code found in the growth fil
 - Use the latitude and longitude for LBNL in decimal degrees. All plots are the same for now
 (Finds missing venv and tries to fix pandas)
 
-### Session 4 - Skills
+### Session 4 - Generalizing:
 - Create a Skill for general validation of DDs, FLMDs and csv files against these
+- Create a data schema using the example data
