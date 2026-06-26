@@ -69,3 +69,6 @@ Treatment codes	5	Definition doesn't document the x code found in the growth fil
 - Update the data dictionary to include latitude and longitude. Add it to soil_temp_leaf file. Prompt user if you aren't sure.
 - Use the latitude and longitude for LBNL in decimal degrees. All plots are the same for now
 (Finds missing venv and tries to fix pandas)
+
+### Session 4 - Skills
+- Create a Skill for general validation of DDs, FLMDs and csv files against these
